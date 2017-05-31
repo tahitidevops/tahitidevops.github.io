@@ -28,6 +28,7 @@ meetup_url: https://www.meetup.com/TahitiDevOps
 
 # Build settings
 markdown: kramdown
+destination: public
 
 # CSS build settings
 sass:
