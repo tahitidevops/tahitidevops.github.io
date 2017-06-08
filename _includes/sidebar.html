@@ -17,6 +17,13 @@
           <ul>
             <li><a href="{{ '/' | absolute_url }}">Acceuil</a></li>
             <li><a href="{{ 'code.html' | absolute_url }}">Code de conduite</a></li>
+            <li>
+              <span class="opener">L'Association</span>
+              <ul>
+                <li><a href="{{ '/association/statuts.html' | absolute_url }}">Statuts</a></li>
+                <li><a href="{{ '/association/crr.html' | absolute_url }}">Procès verbal</a></li>
+              </ul>
+            </li>
             <!--
             <li><a href="{{ 'generic.html' | absolute_url }}">Generic</a></li>
             <li><a href="{{ 'elements.html' | absolute_url }}">Elements</a></li>
@@ -85,7 +92,6 @@
             {{ site.country }}</li>
           </ul>
         </section>
-
       <!-- Footer -->
         <footer id="footer">
           <p class="copyright">&copy; {{ site.title }} {{ site.subtitle }}. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
