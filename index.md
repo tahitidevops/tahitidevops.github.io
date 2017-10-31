@@ -46,57 +46,34 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
 			<h3>DevOps 101</h3>
 			<h4>Peter MEUEL & Léonard TAVAE</h4>
-			<p>Il n'y a pas que les outils et les technologies qui obsèdent les directions des systèmes d'information des entreprises. C'est sans doute moins sexy que le Big Data (voir…) ou que l'Internet des objets (IoT), néanmoins le DevOps est incontestablement une préoccupation du moment - et de ces dernières années.</p>
+			<p>Présentation pour tout public, aucune question n'est idiote, et on sera ravi de répondre aux votres..</p>
 			<ul class="actions">
-				<li><a href="#" class="button">En cours de planification</a></li>
+				<li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="button">mercredi 06 septembre 2017</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Rancher 101</h3>
-			<h4>Bryan LOT</h4>
+			<a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<h3>Docker: présentation et REx</h3>
+			<h4>Léonard TAVAE</h4>
 			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">En cours de planification</a></li>
+				<li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="button">mercredi 04 octobre 2017</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-			<h3>L'impression 3D 101</h3>
-			<h4>Fabrice FAUCHON</h4>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">En cours de planification</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-			<h3>Génération de sites statiques</h3>
+			<a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/244675100" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<h3>Programmation fonctionnelle</h3>
 			<h4>Peter MEUEL</h4>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<p>
+        Nous vous parlerons de programmation fonctionnelle: 
+        en quoi elle se différencie de la programmation impérative, procédurale et objet, 
+        et quand/où/pourquoi l'utiliser
+      </p>
 			<ul class="actions">
-				<li><a href="#" class="button">En cours de planification</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
-			<h3>Docker 102</h3>
-			<h4>Patrick CHANEZON</h4>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">En cours de planification</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
-			<h3>Git 101</h3>
-			<h4>Linus TORVALD</h4>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">En cours de planification</a></li>
+				<li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/244675100" class="button">mercredi 08 novembre 2017</a></li>
 			</ul>
 		</article>
 	</div>
