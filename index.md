@@ -64,7 +64,7 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/244675100" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/244675100/" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
       <h3>Programmation fonctionnelle</h3>
       <h4>Peter MEUEL</h4>
       <p>
@@ -73,7 +73,7 @@ layout: default
         et quand/où/pourquoi l'utiliser
       </p>
       <ul class="actions">
-        <li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/244675100" class="button">mercredi 08 novembre 2017</a></li>
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/244675100/" class="button">mercredi 08 novembre 2017</a></li>
       </ul>
     </article>
     <article>
