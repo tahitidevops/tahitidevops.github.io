@@ -84,18 +84,19 @@ layout: default
         Mickaël, de ATL Software (https://atl-software.net), fera un retour sur 10 ans d’expérience dans l’édition logicielle.
       </p>
       <ul class="actions">
-        <li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/244675100" class="button">mercredi 06 décembre 2017</a></li>
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="button">mercredi 06 décembre 2017</a></li>
       </ul>
     </article>
     <article>
-      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
       <h3>OpenPGP et réseau de confiance</h3>
       <h4>David Prévot</h4>
       <p>
         Lors de ce meetup, David vous présentera: les concepts de OpenPGP (signature, chiffrement), les bonnes pratiques (date d’expiration, sous-clefs, stockage…), l'intérêt du réseau de confiance, les signatures de clefs, et l'accès au « strong set ».
+        [Slides de la présentation](assets/pdf/tdo_005.pdf)
       </p>
       <ul class="actions">
-        <li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/244675100" class="button">mercredi 06 décembre 2017</a></li>
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="button">lundi 12 février 2018</a></li>
       </ul>
     </article>
   </div>
