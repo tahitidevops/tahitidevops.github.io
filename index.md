@@ -92,8 +92,7 @@ layout: default
       <h3>OpenPGP et réseau de confiance</h3>
       <h4>David Prévot</h4>
       <p>
-        Lors de ce meetup, David vous présentera: les concepts de OpenPGP (signature, chiffrement), les bonnes pratiques (date d’expiration, sous-clefs, stockage…), l'intérêt du réseau de confiance, les signatures de clefs, et l'accès au « strong set ».
-        [Slides de la présentation](assets/pdf/tdo_005.pdf)
+        Lors de ce meetup, David vous présentera: les concepts de OpenPGP (signature, chiffrement), les bonnes pratiques (date d’expiration, sous-clefs, stockage…), l'intérêt du réseau de confiance, les signatures de clefs, et l'accès au « strong set » (<a href="http://www.devops.pf/assets/pdfs/tdo_005.pdf">Slides de la présentation</a>).
       </p>
       <ul class="actions">
         <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="button">lundi 12 février 2018</a></li>
