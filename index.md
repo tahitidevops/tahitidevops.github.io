@@ -79,7 +79,7 @@ layout: default
     <article>
       <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
       <h3>Ce que j’aurai voulu savoir quand j’ai commencé</h3>
-      <h4>Mickaël Ruellan</h4>
+      <h4>Mickaël RUELLAN</h4>
       <p>
         Mickaël, de ATL Software (https://atl-software.net), fera un retour sur 10 ans d’expérience dans l’édition logicielle.
       </p>
@@ -90,7 +90,7 @@ layout: default
     <article>
       <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
       <h3>OpenPGP et réseau de confiance</h3>
-      <h4>David Prévot</h4>
+      <h4>David PRÉVOT</h4>
       <p>
         Lors de ce meetup, David vous présentera: les concepts de OpenPGP (signature, chiffrement), les bonnes pratiques (date d’expiration, sous-clefs, stockage…), l'intérêt du réseau de confiance, les signatures de clefs, et l'accès au « strong set » (<a href="http://www.devops.pf/assets/pdfs/tdo_005.pdf">Slides de la présentation</a>).
       </p>
@@ -98,5 +98,33 @@ layout: default
         <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="button">lundi 12 février 2018</a></li>
       </ul>
     </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/248680227/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <h3>L’UXD: quoi, pourquoi, comment</h3>
+      <h4>Fabrice FAUCHON</h4>
+      <p>En étudiant le contexte, les utilisateurs et le contenu, on apporte une valeur ajoutée. On rend explicite un problème à résoudre, on bâtit une stratégie, on identifie les personas, on architecture l'information, on élabore des parcours utilisateurs, on prototype, on test... et on recommence ! L'UXD bouleverse l'entreprise et les méthodes de travail car comme dans l’agile et le DevOps, ceux qui travaillent sur le projet le pilotent, le lead est en bas de la pyramide, résolument orienté vers l'usager.</p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/248680227/" class="button">jeudi 5 avril 2018</a></li>
+      </ul>
+    </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/252488402/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <h3>Lean & Agile</h3>
+      <h4>Matti SCHNEIDER</h4>
+      <p>Cette session commencera par une comparaison des moyens de réduire l'incertitude dans les pratiques du cycle en V, du design et du Lean Startup. Après cette introduction qui permettra de fixer le vocabulaire et de faire émerger des questions, Matti animera une discussion collaborative au format fishbowl.</p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/252488402/" class="button">mardi 10 juillet 2018</a></li>
+      </ul>
+    </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253082119/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <h3>Qu'est-ce que la blockchain ?</h3>
+      <h4>Peter MEUEL</h4>
+      <p>Cette session commencera par une comparaison des moyens de réduire l'incertitude dans les pratiques du cycle en V, du design et du Lean Startup. Après cette introduction qui permettra de fixer le vocabulaire et de faire émerger des questions, Matti animera une discussion collaborative au format fishbowl.</p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253082119/" class="button">mercredi 1er août 2018</a></li>
+      </ul>
+    </article>
+    
   </div>
 </section>
