@@ -46,26 +46,57 @@ layout: default
   </header>
   <div class="posts">
     <article>
-      <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-      <h3>DevOps 101</h3>
-      <h4>Peter MEUEL & Léonard TAVAE</h4>
-      <p>Présentation pour tout public, aucune question n'est idiote, et on sera ravi de répondre aux votres..</p>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253082119/" class="image"><img src="assets/images/tdo_008.jpg" alt="" /></a>
+      <h3>008 - Qu'est-ce que la blockchain ?</h3>
+      <h4>Peter MEUEL</h4>
+      <p>Cette session commencera par une comparaison des moyens de réduire l'incertitude dans les pratiques du cycle en V, du design et du Lean Startup. Après cette introduction qui permettra de fixer le vocabulaire et de faire émerger des questions, Matti animera une discussion collaborative au format fishbowl.</p>
       <ul class="actions">
-        <li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="button">mercredi 06 septembre 2017</a></li>
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253082119/" class="button">mercredi 1er août 2018</a></li>
       </ul>
     </article>
     <article>
-      <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-      <h3>Docker: présentation et REx</h3>
-      <h4>Léonard TAVAE</h4>
-      <p>Léo nous fera une présentation de Docker, l'outil de containerisation, puis un retour d'expérience.</p>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/252488402/" class="image"><img src="assets/images/tdo_007.png" alt="" /></a>
+      <h3>007 - Lean & Agile</h3>
+      <h4>Matti SCHNEIDER</h4>
+      <p>Cette session commencera par une comparaison des moyens de réduire l'incertitude dans les pratiques du cycle en V, du design et du Lean Startup. Après cette introduction qui permettra de fixer le vocabulaire et de faire émerger des questions, Matti animera une discussion collaborative au format fishbowl.</p>
       <ul class="actions">
-        <li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="button">mercredi 04 octobre 2017</a></li>
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/252488402/" class="button">mardi 10 juillet 2018</a></li>
+      </ul>
+    </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/248680227/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <h3>006 - L’UXD: quoi, pourquoi, comment</h3>
+      <h4>Fabrice FAUCHON</h4>
+      <p>En étudiant le contexte, les utilisateurs et le contenu, on apporte une valeur ajoutée. On rend explicite un problème à résoudre, on bâtit une stratégie, on identifie les personas, on architecture l'information, on élabore des parcours utilisateurs, on prototype, on test... et on recommence ! L'UXD bouleverse l'entreprise et les méthodes de travail car comme dans l’agile et le DevOps, ceux qui travaillent sur le projet le pilotent, le lead est en bas de la pyramide, résolument orienté vers l'usager.</p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/248680227/" class="button">jeudi 5 avril 2018</a></li>
+      </ul>
+    </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <h3>005 - OpenPGP et réseau de confiance</h3>
+      <h4>David PRÉVOT</h4>
+      <p>
+        Lors de ce meetup, David vous présentera: les concepts de OpenPGP (signature, chiffrement), les bonnes pratiques (date d’expiration, sous-clefs, stockage…), l'intérêt du réseau de confiance, les signatures de clefs, et l'accès au « strong set » (<a href="http://www.devops.pf/assets/pdfs/tdo_005.pdf">Slides de la présentation</a>).
+      </p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="button">lundi 12 février 2018</a></li>
+      </ul>
+    </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <h3>004 - Ce que j’aurai voulu savoir quand j’ai commencé</h3>
+      <h4>Mickaël RUELLAN</h4>
+      <p>
+        Mickaël, de ATL Software (https://atl-software.net), fera un retour sur 10 ans d’expérience dans l’édition logicielle.
+      </p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="button">mercredi 06 décembre 2017</a></li>
       </ul>
     </article>
     <article>
       <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/244675100/" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-      <h3>Programmation fonctionnelle</h3>
+      <h3>003 - Programmation fonctionnelle</h3>
       <h4>Peter MEUEL</h4>
       <p>
         Nous vous parlerons de programmation fonctionnelle: 
@@ -77,25 +108,21 @@ layout: default
       </ul>
     </article>
     <article>
-      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-      <h3>Ce que j’aurai voulu savoir quand j’ai commencé</h3>
-      <h4>Mickaël Ruellan</h4>
-      <p>
-        Mickaël, de ATL Software (https://atl-software.net), fera un retour sur 10 ans d’expérience dans l’édition logicielle.
-      </p>
+      <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+      <h3>002 - Docker: présentation et REx</h3>
+      <h4>Léonard TAVAE</h4>
+      <p>Léo nous fera une présentation de Docker, l'outil de containerisation, puis un retour d'expérience.</p>
       <ul class="actions">
-        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="button">mercredi 06 décembre 2017</a></li>
+        <li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="button">mercredi 04 octobre 2017</a></li>
       </ul>
     </article>
     <article>
-      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-      <h3>OpenPGP et réseau de confiance</h3>
-      <h4>David Prévot</h4>
-      <p>
-        Lors de ce meetup, David vous présentera: les concepts de OpenPGP (signature, chiffrement), les bonnes pratiques (date d’expiration, sous-clefs, stockage…), l'intérêt du réseau de confiance, les signatures de clefs, et l'accès au « strong set » (<a href="http://www.devops.pf/assets/pdfs/tdo_005.pdf">Slides de la présentation</a>).
-      </p>
+      <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+      <h3>001 - DevOps 101</h3>
+      <h4>Peter MEUEL & Léonard TAVAE</h4>
+      <p>Présentation pour tout public, aucune question n'est idiote, et on sera ravi de répondre aux votres..</p>
       <ul class="actions">
-        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="button">lundi 12 février 2018</a></li>
+        <li><a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="button">mercredi 06 septembre 2017</a></li>
       </ul>
     </article>
   </div>
