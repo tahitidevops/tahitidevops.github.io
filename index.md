@@ -46,6 +46,41 @@ layout: default
   </header>
   <div class="posts">
     <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254659117/" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+      <h3>L’UXD: quoi, pourquoi, comment</h3>
+      <h4>Fabrice FAUCHON</h4>
+      <p>
+          L’UXD (User eXperiment Design) est une méthode pluridisciplinaire, proactive, pragmatique, innovante, évolutive et perturbante visant à améliorer l'expérience des usagers d'un service web ou d'un produit selon 4 grandes étapes itératives : Empathie -> Définition -> Idéation -> Prototypage -> Test.
+      </p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254659117/" class="button">mercredi 5 décembre 2018</a></li>
+      </ul>
+    </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254654895/" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+      <h3>CKAN - La plateforme de l'Open Data</h3>
+      <h4>Hubert LEVIEL</h4>
+      <p>
+          CKAN est un catalogue de données open source. Il est le moteur des plus gros portails gouvernementaux d'Open Data (US, UK, Canada, Europe, France, Suisse...).
+          La Polynésie française s'engageant actuellement sur la voie de l'Open Data, nous étudions la pertinence d'utiliser CKAN comme future plateforme.
+          Rejoins-nous pour une exploration technique de son architecture et une démonstration de son API.
+      </p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254654895/" class="button">mercredi 7 novembre 2018</a></li>
+      </ul>
+    </article>
+    <article>
+      <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253868192/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+      <h3>Kubernetes 101</h3>
+      <h4>Jonathan PIGRÉE</h4>
+      <p>
+          Pas de blabla, de la démo comme on l’aime, Jonathan nous fera passer de n00b à (presque) expert sur Kubernetes (k8s).
+          Scalabilité, workload, canary deployment, le programme sera varié.</p>
+      <ul class="actions">
+        <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253868192/" class="button">mercredi 5 septembre 2018</a></li>
+      </ul>
+    </article>
+    <article>
       <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253082119/" class="image"><img src="assets/images/tdo_008.jpg" alt="" /></a>
       <h3>008 - Qu'est-ce que la blockchain ?</h3>
       <h4>Peter MEUEL</h4>
