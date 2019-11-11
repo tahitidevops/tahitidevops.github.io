@@ -46,8 +46,31 @@ layout: default
     </header>
     <div class="posts">
         <article>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+            <h3>014 - Le langage R</h3>
+            <h4>Laurent PELLET</h4>
+            <p>Au travers de ses fonctionnalités clés, nous montrerons comment R est en train de remplacer les solutions propriétaires et comment il s'impose comme une solution simplet et rapide pour qui veut maitriser la chaine complète d'analyse des données (connecteurs aux sources de données, fonctions d'analyse, temps de traitement, édition de rapport complexe et mise en ligne de rapport dynamiques).
+            </p>
+            <ul class="actions">
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="button">mercredi 20 novembre 2019</a></li>
+            </ul>
+        </article>
+        <article>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/266268580/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+            <h3>013 - DevSecOps</h3>
+            <h4>Jean-Francois BAILLETTE</h4>
+            <p>Une présentation autour des généralités du DevSecOps et bonnes pratiques, le DevSecOps pour 0€ selon OWASP avec une intervention depuis la France de Christophe VILLENEUVE sur la sécurité dans les extensions Firefox.
+            </p>
+            <p>
+                <a href="https://www.g-echo.fr/20191107-DevSecOps">Visualiser les slides</a>
+            </p>
+            <ul class="actions">
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/266268580/" class="button">jeudi 07 novembre 2019</a></li>
+            </ul>
+        </article>
+        <article>
             <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265173633/" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-            <h3>012 - L’UXD: quoi, pourquoi, comment</h3>
+            <h3>012 - TLS/HTTPS : Au-delà du certificat X.509</h3>
             <h4>Romain TARTIÈRE</h4>
             <p>
                 Cette conférence se focalise sur les aspects techniques du déploiement de services basés sur TLS.
@@ -57,7 +80,7 @@ layout: default
                 <a href="https://romain.blogreen.org/files/tls-https-au-dela-du-certificat-x-509.pdf">Télécharger les slides</a>
             </p>
             <ul class="actions">
-                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265173633/" class="button">mercredi 9 octobre 2018</a></li>
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265173633/" class="button">mercredi 9 octobre 2019</a></li>
             </ul>
         </article>
         <article>
