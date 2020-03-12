@@ -47,6 +47,20 @@ layout: default
     <div class="posts">
         <article>
             <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+            <h3>015 - Le langage R</h3>
+            <h4>Hubert LEVIEL</h4>
+            <p>
+                Si le Web Polynésien regorge de données intéressantes, l'Open Data est encore rare voire inexistant.
+                Le web scrapping est une technique d'extraction du contenu de sites Web.
+                Hubert nous fera une démo basé sur Python en utilisant la bibliothèque Beautiful Soup.
+                Le tout tournera sur AWS Lambda et sera exécuté automatiquement toutes les heures.
+            </p>
+            <ul class="actions">
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="button">mercredi 20 novembre 2019</a></li>
+            </ul>
+        </article>
+        <article>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
             <h3>014 - Le langage R</h3>
             <h4>Laurent PELLET</h4>
             <p>Au travers de ses fonctionnalités clés, nous montrerons comment R est en train de remplacer les solutions propriétaires et comment il s'impose comme une solution simplet et rapide pour qui veut maitriser la chaine complète d'analyse des données (connecteurs aux sources de données, fonctions d'analyse, temps de traitement, édition de rapport complexe et mise en ligne de rapport dynamiques).
