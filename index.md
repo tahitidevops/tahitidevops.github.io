@@ -46,17 +46,17 @@ layout: default
     </header>
     <div class="posts">
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143156/" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
             <h3>015 - Le langage R</h3>
             <h4>Hubert LEVIEL</h4>
             <p>
                 Si le Web Polynésien regorge de données intéressantes, l'Open Data est encore rare voire inexistant.
                 Le web scrapping est une technique d'extraction du contenu de sites Web.
-                Hubert nous fera une démo basé sur Python en utilisant la bibliothèque Beautiful Soup.
-                Le tout tournera sur AWS Lambda et sera exécuté automatiquement toutes les heures.
+                Hubert nous fera une démo basé sur Python en utilisant la bibliothèque Beautiful Soup, tournant sur AWS Lambda.
+                [Tout le code est disponible dans ce dépôt github](https://github.com/HLeviel/meteoscrapper/)
             </p>
             <ul class="actions">
-                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="button">mercredi 20 novembre 2019</a></li>
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143156/" class="button">mercredi 20 novembre 2019</a></li>
             </ul>
         </article>
         <article>
