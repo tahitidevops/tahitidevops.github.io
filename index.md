@@ -46,8 +46,40 @@ layout: default
     </header>
     <div class="posts">
         <article>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/271403487/" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+            <h3>017 - Le chiffrement pour ceux qui n’y connaissent rien</h3>
+            <h4>Peter Meuel</h4>
+            <p>
+				Chiffrage, chiffrement, cryptage ... si ces 3 mots vous semblent identiques ou inconnus, cette présentation est pour vous. Cette présentation très grand public partira de la base, passera par quelques notions mathématiques, pour terminer sur une démo.
+            </p>
+            <p>
+                <a href="{{ site.url }}/assets/pdfs/20200701_017_chiffrement.pdf">Visualiser les slides</a>
+            </p>
+            <ul class="actions">
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/271403487/" class="button">mercredi 11 mars 2020</a></li>
+            </ul>
+        </article>
+        <article>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143260/" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+            <h3>016 - Les tests (unitaires et autres), c'est bon pour la santé</h3>
+            <h4>Paraita Wohler, Jérôme Wacongne, Jean-Francois Baillette, Christophe Villeneuve</h4>
+            <p>
+				Les tests sont souvent relégués aux tâches secondaires, passant même après les demandes cosmétiques demandées par les clients. Ils n'ont à priori pas de valeur pour ces derniers et consomment de la ressource supplémentaire.
+			</p>
+			<p>
+				Cette présentation va parler de quelques types de tests automatisés, à quoi ils servent et comment les écrire facilement.
+            </p>
+            <p>
+                <a href="{{ site.url }}/assets/pdfs/20200603_16_tests.pdf">Visualiser les slides</a>
+            </p>
+
+            <ul class="actions">
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143260/" class="button">mercredi 11 mars 2020</a></li>
+            </ul>
+        </article>
+        <article>
             <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143156/" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-            <h3>015 - Le langage R</h3>
+            <h3>015 - Serverless Web Scrapping (Démo)</h3>
             <h4>Hubert LEVIEL</h4>
             <p>
                 Si le Web Polynésien regorge de données intéressantes, l'Open Data est encore rare voire inexistant.
@@ -56,7 +88,7 @@ layout: default
                 [Tout le code est disponible dans ce dépôt github](https://github.com/HLeviel/meteoscrapper/)
             </p>
             <ul class="actions">
-                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143156/" class="button">mercredi 20 novembre 2019</a></li>
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143156/" class="button">mercredi 11 mars 2020</a></li>
             </ul>
         </article>
         <article>
