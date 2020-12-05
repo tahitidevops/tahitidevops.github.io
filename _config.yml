@@ -25,6 +25,7 @@ pinterest_url:
 slack_url: http://tahitidevops.slack.com
 twitter_url: https://twitter.com/tahitidevops
 meetup_url: https://www.meetup.com/TahitiDevOps
+conference_server: https://meet.polynesie-francaise.pf/devops
 
 # Build settings
 markdown: kramdown

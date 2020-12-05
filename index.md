@@ -46,7 +46,26 @@ layout: default
     </header>
     <div class="posts">
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/271403487/" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/273812501/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
+            <h3>018 - Identité et authentification avec Keycloak</h3>
+            <h4>Jérôme Wacongne</h4>
+            <p>
+				En se basant sur Keycloak, en utilisant le protocole OpenID Connect, Jérôme nous présentera un serveur web (Spring) et une application mobile (Ionic) permettant la gestion de commande de boisson dans un bar.
+            </p>
+            <p>
+                OpenID Connect est le protocole d’authentification utilisé par FranceConnect et tous les géants du Web, Spring est le framework web Java le plus utilisé au monde et Ionic est un framework permettant de développer des applications multi-plateformes (et donc du mobile).
+            </p>
+            <p>
+                <a href="{{ site.url }}/assets/pptx/OpenID-Meetup.pptx">Visualiser les slides</a>
+                <br />
+                <a href="https://github.com/ch4mpy/openid-meetup">Visualiser le code source</a>
+            </p>
+            <ul class="actions">
+                <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/271403487/" class="button">mercredi 04 novembre 2020</a></li>
+            </ul>
+        </article>
+        <article>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/271403487/" class="image"><img src="assets/images/securite.jpg" alt="" /></a>
             <h3>017 - Le chiffrement pour ceux qui n’y connaissent rien</h3>
             <h4>Peter Meuel</h4>
             <p>
@@ -60,7 +79,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143260/" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143260/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
             <h3>016 - Les tests (unitaires et autres), c'est bon pour la santé</h3>
             <h4>Paraita Wohler, Jérôme Wacongne, Jean-Francois Baillette, Christophe Villeneuve</h4>
             <p>
@@ -78,7 +97,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143156/" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/269143156/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
             <h3>015 - Serverless Web Scrapping (Démo)</h3>
             <h4>Hubert LEVIEL</h4>
             <p>
@@ -92,7 +111,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265771502/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
             <h3>014 - Le langage R</h3>
             <h4>Laurent PELLET</h4>
             <p>Au travers de ses fonctionnalités clés, nous montrerons comment R est en train de remplacer les solutions propriétaires et comment il s'impose comme une solution simplet et rapide pour qui veut maitriser la chaine complète d'analyse des données (connecteurs aux sources de données, fonctions d'analyse, temps de traitement, édition de rapport complexe et mise en ligne de rapport dynamiques).
@@ -102,7 +121,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/266268580/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/266268580/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
             <h3>013 - DevSecOps</h3>
             <h4>Jean-Francois BAILLETTE</h4>
             <p>Une présentation autour des généralités du DevSecOps et bonnes pratiques, le DevSecOps pour 0€ selon OWASP avec une intervention depuis la France de Christophe VILLENEUVE sur la sécurité dans les extensions Firefox.
@@ -115,7 +134,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265173633/" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/265173633/" class="image"><img src="assets/images/securite.jpg" alt="" /></a>
             <h3>012 - TLS/HTTPS : Au-delà du certificat X.509</h3>
             <h4>Romain TARTIÈRE</h4>
             <p>
@@ -130,7 +149,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254659117/" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254659117/" class="image"><img src="assets/images/design.jpg" alt="" /></a>
             <h3>011 - L’UXD: quoi, pourquoi, comment</h3>
             <h4>Fabrice FAUCHON</h4>
             <p>
@@ -141,7 +160,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254654895/" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/254654895/" class="image"><img src="assets/images/plateforme.jpg" alt="" /></a>
             <h3>010 - CKAN - La plateforme de l'Open Data</h3>
             <h4>Hubert LEVIEL</h4>
             <p>
@@ -154,7 +173,7 @@ layout: default
             </ul>
         </article>
         <article>
-            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253868192/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+            <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253868192/" class="image"><img src="assets/images/infrastructure.jpg" alt="" /></a>
             <h3>009 - Kubernetes 101</h3>
             <h4>Jonathan PIGRÉE</h4>
             <p>
@@ -165,7 +184,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253082119/" class="image"><img src="assets/images/tdo_008.jpg" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/253082119/" class="image"><img src="assets/images/plateforme.jpg" alt="" /></a>
                 <h3>008 - Qu'est-ce que la blockchain ?</h3>
                 <h4>Peter MEUEL</h4>
                 <p>Cette session commencera par une comparaison des moyens de réduire l'incertitude dans les pratiques du cycle en V, du design et du Lean Startup. Après cette introduction qui permettra de fixer le vocabulaire et de faire émerger des questions, Matti animera une discussion collaborative au format fishbowl.</p>
@@ -174,7 +193,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/252488402/" class="image"><img src="assets/images/tdo_007.png" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/252488402/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
                 <h3>007 - Lean & Agile</h3>
                 <h4>Matti SCHNEIDER</h4>
                 <p>Cette session commencera par une comparaison des moyens de réduire l'incertitude dans les pratiques du cycle en V, du design et du Lean Startup. Après cette introduction qui permettra de fixer le vocabulaire et de faire émerger des questions, Matti animera une discussion collaborative au format fishbowl.</p>
@@ -183,7 +202,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/248680227/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/248680227/" class="image"><img src="assets/images/design.jpg" alt="" /></a>
                 <h3>006 - L’UXD: quoi, pourquoi, comment</h3>
                 <h4>Fabrice FAUCHON</h4>
                 <p>En étudiant le contexte, les utilisateurs et le contenu, on apporte une valeur ajoutée. On rend explicite un problème à résoudre, on bâtit une stratégie, on identifie les personas, on architecture l'information, on élabore des parcours utilisateurs, on prototype, on test... et on recommence ! L'UXD bouleverse l'entreprise et les méthodes de travail car comme dans l’agile et le DevOps, ceux qui travaillent sur le projet le pilotent, le lead est en bas de la pyramide, résolument orienté vers l'usager.</p>
@@ -192,7 +211,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/247046773/" class="image"><img src="assets/images/securite.jpg" alt="" /></a>
                 <h3>005 - OpenPGP et réseau de confiance</h3>
                 <h4>David PRÉVOT</h4>
                 <p>
@@ -203,7 +222,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/245369905/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
                 <h3>004 - Ce que j’aurai voulu savoir quand j’ai commencé</h3>
                 <h4>Mickaël RUELLAN</h4>
                 <p>
@@ -214,7 +233,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/244675100/" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/244675100/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
                 <h3>003 - Programmation fonctionnelle</h3>
                 <h4>Peter MEUEL</h4>
                 <p>
@@ -227,7 +246,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/243268070" class="image"><img src="assets/images/infrastructure.jpg" alt="" /></a>
                 <h3>002 - Docker: présentation et REx</h3>
                 <h4>Léonard TAVAE</h4>
                 <p>Léo nous fera une présentation de Docker, l'outil de containerisation, puis un retour d'expérience.</p>
@@ -236,7 +255,7 @@ layout: default
                 </ul>
             </article>
             <article>
-                <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+                <a href="https://www.meetup.com/fr-FR/preview/TahitiDevOps/events/242980492" class="image"><img src="assets/images/association.jpg" alt="" /></a>
                 <h3>001 - DevOps 101</h3>
                 <h4>Peter MEUEL & Léonard TAVAE</h4>
                 <p>Présentation pour tout public, aucune question n'est idiote, et on sera ravi de répondre aux votres..</p>
