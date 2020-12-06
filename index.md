@@ -56,7 +56,7 @@ layout: default
                 OpenID Connect est le protocole d’authentification utilisé par FranceConnect et tous les géants du Web, Spring est le framework web Java le plus utilisé au monde et Ionic est un framework permettant de développer des applications multi-plateformes (et donc du mobile).
             </p>
             <p>
-                <a href="{{ site.url }}/assets/pptx/OpenID-Meetup.pptx">Visualiser les slides</a>
+                <a href="/assets/pptx/OpenID-Meetup.pptx">Visualiser les slides</a>
                 <br />
                 <a href="https://github.com/ch4mpy/openid-meetup">Visualiser le code source</a>
             </p>
@@ -72,7 +72,7 @@ layout: default
 				Chiffrage, chiffrement, cryptage ... si ces 3 mots vous semblent identiques ou inconnus, cette présentation est pour vous. Cette présentation très grand public partira de la base, passera par quelques notions mathématiques, pour terminer sur une démo.
             </p>
             <p>
-                <a href="{{ site.url }}/assets/pdfs/20200701_017_chiffrement.pdf">Visualiser les slides</a>
+                <a href="/assets/pdfs/20200701_017_chiffrement.pdf">Visualiser les slides</a>
             </p>
             <ul class="actions">
                 <li><a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/271403487/" class="button">mercredi 11 mars 2020</a></li>
@@ -89,7 +89,7 @@ layout: default
 				Cette présentation va parler de quelques types de tests automatisés, à quoi ils servent et comment les écrire facilement.
             </p>
             <p>
-                <a href="{{ site.url }}/assets/pdfs/20200603_16_tests.pdf">Visualiser les slides</a>
+                <a href="/assets/pdfs/20200603_16_tests.pdf">Visualiser les slides</a>
             </p>
 
             <ul class="actions">
