@@ -5,3 +5,4 @@ public/
 .jekyll-metadata
 Gemfile.lock
 *.gem
+.jekyll-cache
