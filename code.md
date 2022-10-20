@@ -44,5 +44,5 @@ title: Code de conduite
 </div>
 
 <h3 id="content">Attribution</h3>
-<p>Ce Code de Conduite est adaptée du Contributor Covenant (http://contributor-covenant.org), version 1.4.0, disponible à http://contributor-covenant.org/version/1/4/0/fr</p>
+<p>Ce Code de Conduite est adaptée du Contributor Covenant (https://contributor-covenant.org), version 1.4.0, disponible à https://contributor-covenant.org/version/1/4/0/fr</p>
 <hr class="major" />
