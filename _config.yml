@@ -1,11 +1,11 @@
 # Site settings
 title: Tahiti
 subtitle: DevOps
-email: contact@devops.pf
+email: contact@tahiti.dev
 description: POUR QUE DEV ET OPS SE COMPRENNENT, ET POUR FAIRE PRENDRE CONSCIENCE DE L'IMPORTANCE SOCIALE DE L'INFORMATIQUE.
 baseurl: ""
-url: "http://www.devops.pf"
-author: devops.pf team
+url: "https://www.tahiti.dev"
+author: tahiti.dev
 street_address: BP 40855
 city: Papeete
 state: Tahiti
@@ -15,14 +15,14 @@ phone: (+689) 87 344 610
 
 # Social settings
 500px_url:
-facebook_url: http://fb.me/TahitiDevOps
+facebook_url: https://fb.me/TahitiDevOps
 github_url: https://github.com/tahitidevops
 gitlab_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url: http://tahitidevops.slack.com
+slack_url: https://tahitidevops.slack.com
 twitter_url: https://twitter.com/tahitidevops
 meetup_url: https://www.meetup.com/TahitiDevOps
 conference_server: https://meet.polynesie-francaise.pf/devops

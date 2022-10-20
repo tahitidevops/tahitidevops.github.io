@@ -1,5 +1,6 @@
 # Devops.pf website
 
+[![github pages](https://github.com/tahitidevops/tahitidevops.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/tahitidevops/tahitidevops.github.io/actions/workflows/main.yml)
 
 MAJ du site
 
