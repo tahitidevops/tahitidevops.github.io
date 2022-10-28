@@ -46,6 +46,39 @@ layout: default
     </header>
     <div class="posts">
         <article>
+            <a href="https://www.meetup.com/tahitidevops/events/289366069" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
+            <h3>019 - 0 to hero en sécurité des resource-servers Spring</h3>
+            <h4>Jérôme Wacongne</h4>
+            <p>
+				Séance de travaux pratiques autour de la configuration et des tests d'API RESTful Spring sécurisées avec Keycloak.
+            </p>
+            <p>
+                Sujets abordés : 
+                <ul>
+                    <li>les rôles OAuth2</li>
+                    <li>les différents types de tokens (OAuth2 & OpenID) et leur usage</li>
+                    <li>la configuration (avec spring-boot 3) de la sécurité des resource-server</li>
+                    <li>les cas "simples" de contrôle d'accès basé sur des rôles utilisateurs</li>
+                    <li>simulation d'identité (et des rôles associés) dans les tests</li>
+                </ul>
+            </p>
+            <p>
+				Les participants sont priés de venir avec un ordinateur portable sur lequel seront installés :
+                <ul>
+                    <li><a href="https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.3.0">GraalVM Java 17</a></li>
+                    <li>Git</li>
+                    <li>un IDE Java (<a href="https://spring.io/tools">STS</a>, <a href="https://code.visualstudio.com/download">VS code</a>, <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a>, ...).</li>
+                    <li>une instance locale de Keycloak (<a href="https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials">instruction complémentaires</a>, si nécessaire)</li>
+                </ul>
+            </p>
+            <p>
+                <a href="https://github.com/ch4mpy/meetup-resource-server">Visualiser le code source et les instructions du TP</a>
+            </p>
+            <ul class="actions">
+                <li><a href="https://www.meetup.com/tahitidevops/events/289366069" class="button">jeudi 27 octobre 2022 à 17h dans les bureaux de Tahiti Coworking</a></li>
+            </ul>
+        </article>
+        <article>
             <a href="https://www.meetup.com/fr-FR/TahitiDevOps/events/273812501/" class="image"><img src="assets/images/developpement.jpg" alt="" /></a>
             <h3>018 - Identité et authentification avec Keycloak</h3>
             <h4>Jérôme Wacongne</h4>
