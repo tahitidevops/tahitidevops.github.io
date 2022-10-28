@@ -53,18 +53,26 @@ layout: default
 				Séance de travaux pratiques autour de la configuration et des tests d'API RESTful Spring sécurisées avec Keycloak.
             </p>
             <p>
-                Seront abordés: 
+                Sujets abordés : 
                 <ul>
+                    <li>les rôles OAuth2</li>
+                    <li>les différents types de tokens (OAuth2 & OpenID) et leur usage</li>
+                    <li>la configuration (avec spring-boot 3) de la sécurité des resource-server</li>
                     <li>les cas "simples" de contrôle d'accès basé sur des rôles utilisateurs</li>
-                    <li>l'ajout de données personnalisées (private-claims) aux tokens émis par Keycloak</li>
-                    <li>l'exploitation des private-claims avec spring-security</li>
+                    <li>simulation d'identité (et des rôles associés) dans les tests</li>
                 </ul>
             </p>
             <p>
-				Les participants sont priés de venir avec un ordinateur portable sur lequel seront installés <a href="https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.3.0">GraalVM Java 17</a>, Git et un IDE Java (<a href="https://spring.io/tools">STS</a>, <a href="https://code.visualstudio.com/download">VS code</a>, <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a>, ...).
+				Les participants sont priés de venir avec un ordinateur portable sur lequel seront installés :
+                <ul>
+                    <li><a href="https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.3.0">GraalVM Java 17</a></li>
+                    <li>Git</li>
+                    <li>un IDE Java (<a href="https://spring.io/tools">STS</a>, <a href="https://code.visualstudio.com/download">VS code</a>, <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a>, ...).</li>
+                    <li>une instance locale de Keycloak (<a href="https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials">instruction complémentaires</a>, si nécessaire)</li>
+                </ul>
             </p>
             <p>
-                <a href="https://github.com/ch4mpy/spring-addons/tree/master/samples/tutorials">Visualiser le code source</a>
+                <a href="https://github.com/ch4mpy/meetup-resource-server">Visualiser le code source et les instructions du TP</a>
             </p>
             <ul class="actions">
                 <li><a href="https://www.meetup.com/tahitidevops/events/289366069" class="button">jeudi 27 octobre 2022 à 17h dans les bureaux de Tahiti Coworking</a></li>
